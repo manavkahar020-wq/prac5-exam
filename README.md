@@ -1,4 +1,4 @@
-# Practical 5 – Docker
+# Practical  – Docker
 
 
 ## 1. Check Docker Version
